@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidExamen3</string>
+
+
+    <string name="btn_registra">Registrar</string>
+    <string name="btn_nuevo">Nuevo Comprobante</string>
+    <string name="btn_lista">Lista</string>
+
+    <string name="lbl_id">ID</string>
+    <string name="lbl_fechapago">Fecha de Pago</string>
+    <string name="lbl_idpedido">Pedido ( ID )</string>
+    <string name="lbl_idcliente">Cliente ( ID )</string>
+    <string name="lbl_idusuario">Usuario ( ID )</string>
+    <string name="registrar_titulo">Nuevo Comprobante</string>
+
+    <string-array name="array_usuario">
+        <item>[Seleccione]</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+
+</resources>
